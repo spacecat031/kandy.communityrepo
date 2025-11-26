@@ -1,6 +1,6 @@
 {
   "windown": "https://download.mozilla.org/?product=firefox-latest&os=win",
-  "lindown": "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US",
+  "lindown": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/145.0.2/linux-x86_64/en-US/firefox-145.0.2.tar.xz",
   "ascii url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
   "ascii width": 60,
   "ascii height": 25,
