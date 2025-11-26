@@ -1,7 +1,9 @@
 {
   "windown": "https://download.mozilla.org/?product=firefox-latest&os=win",
-  "lindown": "https://download.mozilla.org/?product=firefox-latest&os=linux",
+  "lindown": "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US",
   "ascii url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
   "ascii width": 60,
-  "ascii height": 25
+  "ascii height": 25,
+  "official" : "True",
+  "setup-type" : "ziptractor"
 }
